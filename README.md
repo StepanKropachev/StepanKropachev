@@ -5,8 +5,11 @@ Hi there 👋 I'm Stepan
 Current Interests:
 
 🔄 Multi-agent systems and their applications in real-world scenarios
+
 ⚖️ AI governance, ethics, and legal frameworks
+
 🧠 Machine learning, particularly in NLP and computer vision
+
 🏗️ Building AI-powered solutions that enhance human capabilities
 
 Research Focus
